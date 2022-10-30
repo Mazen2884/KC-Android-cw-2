@@ -1,0 +1,17 @@
+public class Main
+{
+	public static void main(String[] args) {
+	//تمرين 1
+	String name = "mazen";
+	int age = 16;
+		System.out.println("hi my name is "+ name + " my age is " + age );
+		// تمرين 2
+		int height = 178;
+		if (height>160) {
+		    System.out.println ("you can enter the game");
+		   
+		}else if(height<160){ 
+		    System.out.println ("you can't enter the game");
+	}
+}
+}
